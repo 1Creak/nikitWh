@@ -65,6 +65,7 @@ main{
 }
 .hero-block{
     height: 200px;
+    width: 50%;
 }
 
 .btn{
