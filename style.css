@@ -3,13 +3,18 @@
     padding: 0;
 }
 
-header, .footer{
+header{
     background-color: #013A60;
     padding: 20px 0;
     display: flex;
     align-items: center;
 }
-
+.footer{
+        background-color: #013A60;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+}
 body{
     color: white;
 }
