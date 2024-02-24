@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-header{
+header, .footer{
     background-color: #013A60;
     padding: 20px 0;
     display: flex;
